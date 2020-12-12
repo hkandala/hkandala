@@ -3,14 +3,14 @@ I have been talking to computers for more than 7 years in different languages li
 
 <br>
 
-- 🔭 I’m currently working on [keepup](http://keepup.hkandala.dev/)
+- 🔭 I’m currently working on [keepup](https://keepup.hkandala.dev/)
 
 - 🌱 I’m currently learning **Rust, Go, WebAssemnbly, WebRTC, Vim**
 
-- 📝 I regulary write articles on [http://hkandala.dev/](http://hkandala.dev/)
+- 📝 I regulary write articles on [https://hkandala.dev/](https://hkandala.dev/)
 
 - 💬 I'm excited to have conversations on **anything related to silicon devices, astrophysics and neuroscience**
 
 - 📫 How to reach me **kandalaharish95@gmail.com**
 
-- 📄 Know about my experiences [http://resume.hkandala.dev/](http://resume.hkandala.dev/)
+- 📄 Know about my experiences [https://resume.hkandala.dev/](https://resume.hkandala.dev/)
