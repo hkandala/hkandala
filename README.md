@@ -1,4 +1,4 @@
-<h2>👋 Hello, I'm Harish Kandala</h2>
+<h2>Hello, I'm Harish Kandala 👋</h2>
 I have been talking to computers for more than 7 years in different languages like JavaScript, Java, Python, PHP, C, C++, etc. I spend so much time with them every day, even companies have started paying me for the past 3 years just to talk to them and fix them if they go insane. Crazy, right! They saved me 100s of hours by doing all my mundane tasks without complaining. I am constantly excited to make them smarter so that they are more helpful to our fellow human beings.
 
 <br>
