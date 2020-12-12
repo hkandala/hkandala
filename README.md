@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1>Hello 👋, I'm Harish Kandala</h1>
+I have been talking to computers for more than 7 years in different languages like JavaScript, Java, Python, PHP, C, C++, etc. I spend so much time with them every day, even companies have started paying me for the past 3 years just to talk to them and fix them if they go insane. Crazy, right! They saved me 100s of hours by doing all my mundane tasks without complaining. I am constantly excited to make them smarter so that they are more helpful to our fellow human beings.
 
-<!--
-**hkandala/hkandala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [keepup](http://keepup.hkandala.dev/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Rust, Go, WebAssemnbly, WebRTC, Vim**
+
+- 📝 I regulary write articles on [http://hkandala.dev/](http://hkandala.dev/)
+
+- 💬 I'm excited to have conversations on **anything related to silicon devices, astrophysics and neuroscience**
+
+- 📫 How to reach me **kandalaharish95@gmail.com**
+
+- 📄 Know about my experiences [http://resume.hkandala.dev/](http://resume.hkandala.dev/)
